@@ -1,0 +1,10 @@
+{
+  "name": "Learn Simply AI",
+  "description": "An AI-powered learning application that transforms any topic into a structured, interactive course. Features in-context dictionary, vocabulary builder, and a personal learning hub to track your progress and notes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "prompt": ""
+}
